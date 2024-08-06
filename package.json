@@ -1,0 +1,11 @@
+{
+  "name": "bulkingfood",
+  "version": "1.0.0",
+  "description": "WebSite from bulking foods",
+  "main": "src/javaScript/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
